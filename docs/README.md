@@ -10,7 +10,9 @@ Status: research and architecture baseline; no live evaluation platform is claim
 - [Research and benchmark standards 2026](RESEARCH-AND-BENCHMARK-STANDARDS-2026.md): consumer trust context, reproducible metrics, threat corpus, safe execution and release gates.
 - [Development handoff](DEVELOPMENT-HANDOFF.md): platform components, advisory workflow, first labs, experiment schema, safety controls and release gates.
 
-## Evidence standard
+- [Agent Labs Frontend and Research Platform Build Playbook](FRONTEND-BACKEND-BUILD-PLAYBOOK.md): frontend/backend implementation contract, design skill workflow, Figma scope and verification gates.
+
+## $1
 Every claim includes scope, authorization, environment, versions, dataset hash, sample size, method, uncertainty, limitations and reproducibility artifacts. Security testing is restricted to owned systems, intentionally vulnerable labs or explicitly authorized scope. No arbitrary third-party scanning or exploitation.
 
 ## Product boundary
