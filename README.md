@@ -29,5 +29,10 @@ Use task-specific metrics: task success with a written rubric; tool-call correct
 ## Safety boundary
 Public labs use synthetic datasets, fake tools and isolated sandboxes. Never test against real accounts, production systems, actual secrets or third-party targets without written authorization. Prompt injection success is not proof of exploitability unless threat model and execution path match.
 
-## Architecture
-See [Architecture](docs/ARCHITECTURE.md), [Evaluation protocol](docs/EVALUATION-PROTOCOL.md), [Roadmap](docs/ROADMAP.md), [Security](SECURITY.md). Keep packages isolated per lab; share only schemas, harness primitives and UI components.
+## Documentation
+- [AI builder context](docs/AI-BUILD-CONTEXT.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Evaluation protocol](docs/EVALUATION-PROTOCOL.md)
+- [Research and benchmark standards](docs/RESEARCH-AND-BENCHMARK-STANDARDS-2026.md)
+- [Roadmap](docs/ROADMAP.md)
+- [Security](SECURITY.md)
